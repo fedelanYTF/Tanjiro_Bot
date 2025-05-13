@@ -2,9 +2,9 @@ import fs from 'fs';
 
 let handler = async (m, { conn }) => {
   let txt = `
-   *𝐇𝐎𝐋𝐀 𝐁𝐈𝐄𝐍𝐕𝐄𝐍𝐈𝐎/𝐀 𝐒𝐎𝐘 𝐓𝐀𝐍𝐉𝐈𝐑𝐎-𝐁𝐎𝐓-𝐌𝐃*
+   *HOLA. bienvenidos soy tanjiro*
 
-  🌴 乂 *𝐁𝐈𝐄𝐍𝐕𝐄𝐍𝐈𝐃𝐎/𝐀 𝐄𝐒𝐓𝐄 𝐄𝐒 𝐌𝐈 𝐌𝐄𝐍𝐔* 乂 🌴
+  🌴 乂 *MENU* 乂 🌴
   
   .⁎✿ *.ᴘᴇʀFɪʟ* ✿⁎.
   .⁎✿ *.ᴍᴇɴᴜ* ✿⁎.
