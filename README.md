@@ -1,4 +1,4 @@
-<h1 align="center">✦ TANJIRO-BOT-MD✦</h1>
+<h1 align="center">✦ TANJIRO-BOT✦</h1>
 
  <img src= "">
     </p>
