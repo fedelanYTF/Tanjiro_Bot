@@ -1,4 +1,4 @@
-<h1 align="center">✦ TANJIRO-BOT✦</h1>
+<h1 align="center">☆𝘛𝘢𝘯𝘫𝘪𝘳𝘰_𝘉𝘰𝘵☆</h1>
 
  <img src= "https://files.catbox.moe/uk12hd.jpg">
     </p>
