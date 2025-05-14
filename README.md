@@ -2,8 +2,8 @@
 
  <img src= "">
     </p>
-
-<details>
+    
+----
 
    ### **`🔱 CARACTERÍSTICAS`**
 <details>
