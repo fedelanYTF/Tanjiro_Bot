@@ -76,4 +76,4 @@ npm start
 href="https://github.com/fedelanYTF"><img src="https://github.com/fedelanYTF.png" width="130" height="130" alt="fedelan"/></a>
 
 
-### **colaborador y editor `ianalejandrook14x`**
+### **```editor``` `ianalejandrook14x`**
