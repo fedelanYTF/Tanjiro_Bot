@@ -53,7 +53,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/fedelanYTF/Goku_Bot && cd Goku_Bot
+git clone https://github.com/fedelanYTF/Tanjiro_Bot && cd Tanjiro_Bot
 ```
 
 ```bash
