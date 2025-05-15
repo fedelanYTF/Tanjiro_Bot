@@ -316,7 +316,7 @@ ${readMore}┗━━━━━━━━━━━━━━━━━⪩
                 isForwarded: true,
                 forwardingScore: 999,
                 externalAdReply: {
-                    title: '⏤͟͞ू⃪ ፝͜⁞Tanjiro-Bot✰⃔࿐\nNᴜᴇᴠᴀ Vᴇʀsɪᴏɴ Uʟᴛʀᴀ 💫',
+                    title: '💎TᗩᑎᒍIᖇO-ᗷOT💎\nCreador fedelanYT 💙',
                     thumbnailUrl: perfil,
                     mediaType: 1,
                     renderLargerThumbnail: false,
