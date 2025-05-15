@@ -13,10 +13,10 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-   ['5491126852241', 'Fede', true],
+   ['5491156178758', 'Fede', true],
 ]
 
-global.mods = ['5491126852241']
+global.mods = ['5491156178758']
 global.prems = []
 
 global.isBaileysFail = false
