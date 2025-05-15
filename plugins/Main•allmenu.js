@@ -41,14 +41,7 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, com
 ${readMore}
 ㅤ ㅤ   乂 *ʟɪsᴛᴀ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏs* 乂
 
-𓂂𓏸  𐅹੭੭   *\`Mᧉ𝗇𝗎𝗌\`*   🍃ᩚ꤬ᰨᰍ
-ര ׄ 🍃˚ ${usedPrefix}menunsfw
-ര ׄ 🍃˚ ${usedPrefix}menuaudios
-ര ׄ 🍃˚ ${usedPrefix}menuff
-ര ׄ 🍃˚ ${usedPrefix}menuowner
-ര ׄ 🍃˚ ${usedPrefix}menulogos
-
-𓂂𓏸  𐅹੭੭   *\`𝖨𝗇ẜᨣ\`*   🫖ᩚ꤬ᰨᰍ
+𓂂𓏸  𐅹੭੭   *\`Mᧉ𝗇𝗎\`*   🍃ᩚ꤬ᰨᰍ
 ര ׄ 🫖˚ ${usedPrefix}totalf
 ര ׄ 🫖˚ ${usedPrefix}grupos
 ര ׄ 🫖˚ ${usedPrefix}sugerir
@@ -309,7 +302,7 @@ ${readMore}
 ര ׄ 🍀˚ ${usedPrefix}chetar
 ര ׄ 🍀˚ ${usedPrefix}unbanuser
 `.trim()
-
+        
         await conn.sendMessage(m.chat, {
             video: { url: videoUrl }, // Video fijo
             caption: menu,
@@ -318,7 +311,7 @@ ${readMore}
                 isForwarded: true,
                 forwardingScore: 999,
                 externalAdReply: {
-                    title: ': '⏤͟͞ू⃪ ፝͜⁞𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃✰⃔࿐\nNᴜᴇᴠᴀ Vᴇʀsɪᴏɴ Uʟᴛʀᴀ 💫',
+                    title: ': ': '⏤͟͞ू⃪ ፝͜⁞Sʜᴀᴅᴏᴡ✰⃔࿐\nNᴜᴇᴠᴀ Vᴇʀsɪᴏɴ Uʟᴛʀᴀ 💫',
                     thumbnailUrl: perfil,
                     mediaType: 1,
                     renderLargerThumbnail: false,
