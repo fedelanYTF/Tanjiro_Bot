@@ -43,7 +43,7 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, com
 ┃❂ ⧼💫⧽ *Exp:* ${exp}
 ┃❂ ⧼⏏⧽ *Nivel:* ${level}
 ┃❂ ⧼🍢⧽ *Rango:* ${role}
-${readMore} ┗━━━━━━━━━━━━━━━━━⪩
+${readMore}┗━━━━━━━━━━━━━━━━━⪩
 ㅤ ㅤ   
     乂 *ʟɪsᴛᴀ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏs* 乂
 
