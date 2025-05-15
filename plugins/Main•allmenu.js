@@ -318,7 +318,7 @@ ${readMore}
                 isForwarded: true,
                 forwardingScore: 999,
                 externalAdReply: {
-                    title: '⏤͟͞ू⃪ ፝͜⁞Sʜᴀᴅᴏᴡ✰⃔࿐\nNᴜᴇᴠᴀ Vᴇʀsɪᴏɴ Uʟᴛʀᴀ 💫',
+                    title: ': '⏤͟͞ू⃪ ፝͜⁞𝚃𝙰𝙽𝙹𝙸𝚁𝙾-𝙱𝙾𝚃✰⃔࿐\nNᴜᴇᴠᴀ Vᴇʀsɪᴏɴ Uʟᴛʀᴀ 💫',
                     thumbnailUrl: perfil,
                     mediaType: 1,
                     renderLargerThumbnail: false,
