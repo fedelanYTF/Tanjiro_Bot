@@ -24,7 +24,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
                 showAdAttribution: true,
                 title: 'һ᥆ᥣᥲ s᥆ᥡ 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛 ᥱᥣ mᥱȷ᥆r',
                 body: dev,
-                thumbnailUrl: 'https://files.catbox.moe/osv1we.jpg',
+                thumbnailUrl: 'https://files.catbox.moe/yzpw3a.jpg',
                 sourceUrl: 'https://github.com/fedelanYTF',
                 mediaType: 1,
                 renderLargerThumbnail: true
